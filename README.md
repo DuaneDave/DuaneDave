@@ -2,7 +2,7 @@
 <h3 align="left">I'm a passionate software developer from Nigeria</h3>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Back-end Development**
 
 - 💬 Ask me about **Coding, Life and History**
 
