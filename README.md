@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+![Profile views](https://gpvc.arturio.dev/DuaneDave) 
+
 <h1 align="left">Hi 👋, I'm David</h1>
 <h3 align="left">I'm a passionate software developer from Nigeria</h3>
 
