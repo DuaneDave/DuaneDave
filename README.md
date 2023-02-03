@@ -5,13 +5,13 @@
 <h3 align="left">I'm a passionate software developer from Nigeria</h3>
 
 
-- 🌱 I’m currently learning **Back-end Development**
+- 🌱 I’m currently learning **backend development**
 
-- 💬 Ask me about **Coding, Life and History**
+- 💬 Ask me about **coding, life and history**
 
 - 📫 How to reach me **duanedave19@gmail.com**
 
-- ⚡ Fun fact **I am a great listener with cutting edge skills in parsing information**
+- ⚡ Fun fact **I am a great listener with cutting-edge skills in parsing information**
 
 
 <h3 align="left">Connect with me:</h3>
